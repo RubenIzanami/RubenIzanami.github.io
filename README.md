@@ -4,3 +4,6 @@
 
 > GlobalAlloc vs LocalAlloc vs HeapAlloc vs VirtualAlloc vs malloc vs new
 
+## [私有堆的创建和使用](私有堆的创建和使用.md)
+
+> 

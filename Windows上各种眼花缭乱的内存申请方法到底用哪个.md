@@ -20,10 +20,10 @@ malloc的缺点是依赖于C运行库，new的缺点是依赖编译器和语言�
 
 ## 参考链接
 
-https://docs.microsoft.com/en-us/windows/win32/memory/comparing-memory-allocation-methods?redirectedfrom=MSDN
+- https://docs.microsoft.com/en-us/windows/win32/memory/comparing-memory-allocation-methods?redirectedfrom=MSDN
 
-https://docs.microsoft.com/en-us/windows/win32/memory/global-and-local-functions
+- https://docs.microsoft.com/en-us/windows/win32/memory/global-and-local-functions
 
-https://stackoverflow.com/questions/34326835/localalloc-vs-globalalloc-vs-malloc-vs-new
+- https://stackoverflow.com/questions/34326835/localalloc-vs-globalalloc-vs-malloc-vs-new
 
-https://docs.microsoft.com/en-us/windows/win32/memory/heap-functions
+- https://docs.microsoft.com/en-us/windows/win32/memory/heap-functions
